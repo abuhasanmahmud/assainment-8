@@ -1,0 +1,21 @@
+.single-richman-cart img{
+    height: 200px;
+    width: 250px;
+}
+
+.single-richman-cart{
+    background-color:rgba(49, 46, 46, 0.562) ;
+    margin: 12px;
+    height: 460px;
+    color: white;
+    border-radius: 10px;
+   
+    box-shadow: 2px 2px #888888;
+}
+
+.single-richman-cart button{
+    cursor: pointer;
+    height: 35px;
+    width:130px;
+    border-radius: 10px;
+}
